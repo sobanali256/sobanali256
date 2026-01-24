@@ -1,6 +1,14 @@
-# 💫 About Me:
-Im currently working on anime tracking app using flutter and dart<br>I have worked on 2 gen AI apps which were AI resume analyser and War Room (Contract Negotiator)<br>I am actively looking for intern/fresher(entry level) roles in AI <br>
+# Hi, I'm Soban Ali 👋
 
+I am a Computer Science student at FAST NUCES and a hands-on AI Engineer who learns by building. I focus on pushing the limits of LLMs through experimentation, multi-agent orchestration, and rapid prototyping.
+
+- 🔭 **Currently Working On:** A cross-platform **Anime Tracking App** using **Flutter & Dart**.
+- 🧠 **Core Focus:** Generative AI, Multi-Agent Systems (CrewAI), and Full-Stack Engineering.
+- 💼 **Looking For:** Intern or Entry-level roles in Artificial Intelligence & Software Engineering.
+
+### 🛠️ Key Projects
+* **War Room (Contract Negotiator):** Engineered an adversarial multi-agent system using **CrewAI** and **Python** where autonomous agents (The Shark, The Shield) debate legal contracts to find edge cases.
+* **AI Resume Analyzer:** Built a semantic analysis engine using **OpenAI API** and **Streamlit** to audit resumes against job descriptions with vagueness detection.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sobanali256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sobanali256@gmail.com) 
