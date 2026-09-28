@@ -16,7 +16,7 @@
 - **AI Intern at Ledelsea** (Apr 2026 – present), building an AI platform that reads an application's source code and writes and runs its end-to-end tests, with LangGraph, Amazon Bedrock and Playwright.
 - Earlier at Ledelsea: Claude skills that write complete RFP proposals, and the retrieval core of a hybrid RAG proposal generator.
 - Ranked **117th of 1,980 teams** in the Reply Code Challenge 2026 with a multi-agent fraud-detection pipeline.
-- Open to AI engineering roles from **June 2027**.
+- Open to AI engineering roles.
 
 ## Selected work
 
