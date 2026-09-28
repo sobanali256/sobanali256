@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Soban Ali, AI Engineer">
+  <defs>
+    <pattern id="ruled" width="1280" height="32" patternUnits="userSpaceOnUse"><rect width="1280" height="1" fill="#d9d2c8"/></pattern>
+    <path id="r1" d="M826 156 H888 V112 H1032 V156 H1184"/>
+    <path id="r2" d="M826 156 H888 V200 H1032 V156 H1184"/>
+  </defs>
+  <rect width="1280" height="320" fill="#f8f5f0"/>
+  <rect width="1280" height="320" fill="url(#ruled)" opacity="0.55"/>
+  <text x="64" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2.5" fill="#6b635a">AI ENGINEER  /  LAHORE, PAKISTAN  /  FAST NUCES ’27</text>
+  <text x="58" y="186" font-family="Georgia, 'Times New Roman', serif" font-size="112" fill="#211c17" letter-spacing="-2">Soban <tspan font-style="italic">Ali</tspan></text>
+  <text x="64" y="240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#4a433c">I build AI systems and rebuild the research behind them,</text>
+  <text x="64" y="274" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="24" fill="#211c17">chasing why things work, not just that they work.</text>
+  <g fill="none" stroke="#bcb3a7" stroke-width="1.5">
+    <use href="#r1"/><use href="#r2"/>
+  </g>
+  <g>
+    <circle r="5" fill="#c0441e"><animateMotion dur="4.2s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.8;1" calcMode="linear"><mpath href="#r1"/></animateMotion></circle>
+    <circle r="5" fill="#c0441e"><animateMotion dur="4.2s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.8;1" calcMode="linear"><mpath href="#r2"/></animateMotion></circle>
+  </g>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#211c17">
+    <rect x="780" y="136" width="92" height="40" rx="5" fill="#f8f5f0" stroke="#bcb3a7" stroke-width="1.5"/>
+    <text x="826" y="161" text-anchor="middle">query</text>
+    <rect x="904" y="92" width="112" height="40" rx="5" fill="#f8f5f0" stroke="#bcb3a7" stroke-width="1.5"/>
+    <text x="960" y="117" text-anchor="middle">vector search</text>
+    <rect x="904" y="180" width="112" height="40" rx="5" fill="#f8f5f0" stroke="#bcb3a7" stroke-width="1.5"/>
+    <text x="960" y="205" text-anchor="middle">BM25</text>
+    <rect x="1048" y="136" width="84" height="40" rx="5" fill="#f8f5f0" stroke="#bcb3a7" stroke-width="1.5"/>
+    <text x="1090" y="161" text-anchor="middle">rerank</text>
+    <rect x="1152" y="136" width="64" height="40" rx="20" fill="#f8f5f0" stroke="#c0441e" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="1184" y="161" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="400" font-size="18">LLM</text>
+  </g>
+  <line x1="780" x2="1216" y1="252" y2="252" stroke="#d9d2c8" stroke-width="1"/>
+  <text x="780" y="276" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6b635a"><tspan font-weight="600" fill="#211c17">Fig. 1</tspan> — Anatomy of a hybrid RAG pipeline.</text>
+</svg>
