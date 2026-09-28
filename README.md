@@ -1,26 +1,39 @@
-# Hi, I'm Soban Ali 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="Soban Ali, AI Engineer. I build AI systems and rebuild the research behind them, chasing why things work, not just that they work." src="./assets/banner-light.svg" width="100%">
+</picture>
 
-I am a Computer Science student at FAST NUCES and a hands-on AI Engineer who learns by building. I focus on pushing the limits of LLMs through experimentation, multi-agent orchestration, and rapid prototyping.
+<p align="center">
+  <a href="https://sobanali.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/sobanali256">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sobanali256@gmail.com">sobanali256@gmail.com</a>
+</p>
 
-- 🔭 **Currently Working On:** A cross-platform **Anime Tracking App** using **Flutter & Dart**.
-- 🧠 **Core Focus:** Generative AI, Multi-Agent Systems (CrewAI), and Full-Stack Engineering.
-- 💼 **Looking For:** Intern or Entry-level roles in Artificial Intelligence & Software Engineering.
+<p align="center"><sub>AI Engineer · Computer Science at FAST NUCES, Lahore · Graduating June 2027</sub></p>
 
-### 🛠️ Key Projects
-* **War Room (Contract Negotiator):** Engineered an adversarial multi-agent system using **CrewAI** and **Python** where autonomous agents (The Shark, The Shield) debate legal contracts to find edge cases.
-* **AI Resume Analyzer:** Built a semantic analysis engine using **OpenAI API** and **Streamlit** to audit resumes against job descriptions with vagueness detection.
+## Now
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sobanali256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sobanali256@gmail.com) 
+- **AI Intern at Ledelsea** (Apr 2026 – present), building an AI platform that reads an application's source code and writes and runs its end-to-end tests, with LangGraph, Amazon Bedrock and Playwright.
+- Earlier at Ledelsea: Claude skills that write complete RFP proposals, and the retrieval core of a hybrid RAG proposal generator.
+- Ranked **117th of 1,980 teams** in the Reply Code Challenge 2026 with a multi-agent fraud-detection pipeline.
+- Open to AI engineering roles from **June 2027**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sobanali256&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sobanali256&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sobanali256&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## Selected work
 
----
-[![](https://visitcount.itsvg.in/api?id=sobanali256&icon=2&color=0)](https://visitcount.itsvg.in)
+| Project | What it is | Result |
+|---|---|---|
+| [Malware Detection, Replicated](https://github.com/sobanali256/malware-detection-research-replication) | Rebuilt a 2025 paper: VGG-16 fine-tuned on binaries rendered as images | **99.10%** accuracy on Malimg |
+| [AniTrack](https://anitrack-a3031.web.app) | Installable anime journal with watch lists, airing schedules and recommendations from AniList and Jikan | Live PWA on Firebase |
+| [WarRoom](https://github.com/sobanali256/War-Room) | Three CrewAI agents negotiate a contract's terms to agreement | **75%** cheaper than a GPT-4o equivalent |
+| [ML From Scratch](https://github.com/sobanali256/Machine-Learning) | Naive Bayes, logistic regression and neural networks in raw NumPy | No ML libraries |
+| [Resume Analyzer](https://github.com/sobanali256/AI_Resume_Analyzer) | OpenAI-powered resume audit with vagueness detection and cover-letter drafts | Full report in **under 10 s** |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Stack
+
+| Area | Tools |
+|---|---|
+| **Generative AI** | LangGraph, LangChain, CrewAI, Amazon Bedrock, Claude API, OpenAI API, Hugging Face, LangFuse |
+| **Retrieval** | pgvector, ChromaDB, all-MiniLM, BM25, hybrid search |
+| **Machine learning** | PyTorch, TensorFlow, Keras, scikit-learn, OpenCV |
+| **Data** | NumPy, Pandas, Matplotlib, NLTK |
+| **Engineering** | Python, TypeScript, React, FastAPI, Node.js, PostgreSQL, Docker, AWS, Playwright |
